@@ -35,7 +35,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pl3-jY-HiV">
-                                <rect key="frame" x="73" y="584" width="247" height="75"/>
+                                <rect key="frame" x="73" y="584" width="239" height="75"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" systemColor="systemMintColor"/>
                                 <state key="normal" title="Button"/>
@@ -43,7 +43,7 @@
                                     <fontDescription key="titleFontDescription" style="UICTFontTextStyleTitle0"/>
                                 </buttonConfiguration>
                                 <connections>
-                                    <segue destination="aeY-Qd-n20" kind="show" id="fTj-aF-GQv"/>
+                                    <segue destination="aeY-Qd-n20" kind="show" id="Rg7-ht-HWu"/>
                                 </connections>
                             </button>
                         </subviews>
@@ -65,7 +65,7 @@
                         <viewLayoutGuide key="safeArea" id="oNr-c6-w2k"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
-                    <navigationItem key="navigationItem" id="L2Y-Fa-OFl"/>
+                    <navigationItem key="navigationItem" id="ehh-n5-dGC"/>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ZDS-EA-Lcj" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
